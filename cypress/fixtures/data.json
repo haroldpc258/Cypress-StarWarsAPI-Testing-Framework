@@ -1,0 +1,10 @@
+{
+	"secondCharacter": {
+		"skinColor": "gold",
+		"filmsAmount": 6
+	},
+	"planet": {
+		"gravity": "1.1 standard",
+		"terrain": "tundra, ice caves, mountain ranges"
+	}
+}
